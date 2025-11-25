@@ -28,5 +28,4 @@ This project is an NLP-based machine learning model that detects whether an SMS 
 - Correctly detects spam keywords
 - Handles noisy and mixed-case text
 
-## 🙌 Author
-T. Raja Rajeswari
+
